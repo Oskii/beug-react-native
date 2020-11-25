@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="uber logo" src="https://beug.app/assets/img/mascot/1500/stoned.png" />
+    <img alt="uber logo" src="https://beug.app/assets/img/mascot/1500/stoned.png" width="300px"/>
     <br>
     REACT NATIVE - Beug Delivery INTERFACE
 </h1>
