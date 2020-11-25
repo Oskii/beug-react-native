@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img alt="uber logo" src="https://github.com/douglasporto/uber-react-native/blob/master/public/image/uber-logo.png" />
+    <img alt="uber logo" src="https://beug.app/assets/img/mascot/1500/stoned.png" />
     <br>
-    REACT NATIVE - UBER INTERFACE
+    REACT NATIVE - Beug Delivery INTERFACE
 </h1>
 
 <h4 align="center">
-  The Uber Interfacce by React Native
+  The Beug Interfacce by React Native
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/douglasporto/uber-react-native.svg">
@@ -52,10 +52,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/douglasporto/uber-react-native
+$ git clone https://github.com/oskii/beug-react-native
 
 # Go into the repository
-$ cd uber-react-native
+$ cd beug-react-native
 
 # Install dependencies
 $ yarn install
@@ -69,7 +69,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/doug
 
 ---
 
-Made with ♥ by Douglas Porto :wave: [Get in touch!](https://www.linkedin.com/in/douglas-porto/)
+Made with ♥ by Douglas Porto and forked by Oskii
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
