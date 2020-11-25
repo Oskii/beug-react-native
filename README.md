@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  The Beug Interfacce by React Native
+  The Beug Interface using React Native
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/douglasporto/uber-react-native.svg">
